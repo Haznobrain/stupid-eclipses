@@ -1,5 +1,4 @@
 type: naval
-template: ErekirUnitType
 name: Eclipse
 description: "b o a t"
 speed: 0.54
