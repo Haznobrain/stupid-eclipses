@@ -1,5 +1,4 @@
 type: crawl
-template: ErekirUnitType
 name: Eclipse
 description: "eclipze"
 speed: 0.54
