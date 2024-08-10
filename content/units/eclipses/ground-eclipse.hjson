@@ -23,7 +23,7 @@ ammoType:{
     }
 weapons: [
 {
-name: large-laser-mount
+name: ground-large-laser-mount
 shake: 4
 shootY: 9
 x: 18
@@ -47,7 +47,7 @@ bullet: {
     }
 }
 {
-name: large-artillery
+name: ground-large-artillery
 x: 11
 y: 27
 rotateSpeed: 2
@@ -74,7 +74,7 @@ bullet: {
     }
 }
 {
-name: large-artillery
+name: ground-large-artillery
 x: 20
 y: -13
 rotateSpeed: 7
