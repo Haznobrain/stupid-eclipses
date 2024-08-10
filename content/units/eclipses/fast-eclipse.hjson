@@ -68,8 +68,6 @@ bullet: {
   lifetime: 47
   status: blasted
   statusDuration: 60
-  trailLength: 20
-  trailColor: f9c27a
   speed: 4
   damage: 15
     }
@@ -99,8 +97,6 @@ bullet: {
   lifetime: 47
   status: blasted
   statusDuration: 60
-  trailLength: 20
-  trailColor: f9c27a
     }
 }
 ]
