@@ -24,13 +24,13 @@ ammoType:{
     }
 weapons: [
 {
-name: large-laser-mount
+name: fast-large-laser-mount
 shake: 4
 shootY: 9
 x: 18
 y: 5
 rotateSpeed: 2
-reload: 45
+reload: 4.5
 recoil: 4
 shootSound: laser
 shadow: 20
@@ -48,11 +48,11 @@ bullet: {
     }
 }
 {
-name: large-artillery
+name: fast-large-artillery
 x: 11
 y: 27
 rotateSpeed: 2
-reload: 9
+reload: 0.9
 shootSound: shoot
 shadow: 7
 rotate: true
@@ -73,12 +73,12 @@ bullet: {
     }
 }
 {
-name: large-artillery
+name: fast-large-artillery
 x: 20
 y: -13
 rotateSpeed: 7
 shake: 1
-reload: 12
+reload: 1.2
 ejectEffect: casing1
 shootSound: shoot
 shadow: 7
