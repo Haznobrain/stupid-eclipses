@@ -2,11 +2,11 @@ type: crawl
 name: Eclipse
 description: "eclipze"
 speed: 0.54
-accel: 0.04
+accel: 0.4
 drag: 0.3
 rotateSpeed: 1
-omniMovement: false
-flying: false
+omniMovement: true
+flying: true
 health: 22000
 hitSize: 5.8
 segments: 0
@@ -66,8 +66,6 @@ bullet: {
   lifetime: 47
   status: blasted
   statusDuration: 60
-  trailLength: 20
-  trailColor: f9c27a
   speed: 4
   damage: 15
     }
@@ -97,8 +95,6 @@ bullet: {
   lifetime: 47
   status: blasted
   statusDuration: 60
-  trailLength: 20
-  trailColor: f9c27a
     }
 }
 ]
