@@ -1,5 +1,4 @@
 type: flying
-template: ErekirUnitType
 name: Eclipse
 description: "viiooommmm"
 speed: 0.2
