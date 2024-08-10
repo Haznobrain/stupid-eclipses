@@ -2,14 +2,14 @@ type: crawl
 name: Eclipse
 description: "eclipze"
 speed: 0.54
-accel: 0.04
+accel: 0.4
 drag: 0.3
 rotateSpeed: 1
 omniMovement: false
 flying: false
 health: 22000
 hitSize: 58
-segments: 0
+segments: 1
 armor: 13
 targetFlags: [
     reactor,
